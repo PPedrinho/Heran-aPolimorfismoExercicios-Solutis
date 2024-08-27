@@ -1,7 +1,7 @@
 public class TesteEmpresa {
 
     public static void main(String[] args) {
-        //crie um array com 10 funcionarios
+        
 
         Funcionario funcionario[] = new Funcionario[10];
         funcionario[0] = new FuncionarioBasico("Joaquim", 1, "EscolaCriar");
